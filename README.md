@@ -1,7 +1,7 @@
 # **Assignment 2: Clustering - Sessa Empirical Estimator**  
 📅 **Deadline:** Sunday, February 23, 2022, at 11:59 PM  
 📌 **Submitted by:** 
-Daniel Ryan Gracia So 
+Daniel Ryan Gracia So,  
 Jade Shaira de Paz
 📌 **Submitted to:** Gerard Ompad  
 
