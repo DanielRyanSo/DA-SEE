@@ -7,6 +7,16 @@ Jade Shaira de Paz
 
 ---
 
+1. Read the Journals about the Sessa Empirical Estimator.
+2. Convert the R codes into Python Codes (use jupyter notebook).
+3. Using Simulated data (https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2019.00383/full) or a real world datasets of your choice (You can obtain it in Kaggle or in https://archive.ics.uci.edu/), perform the Sessa Empircal Estimator and generate some insights.
+4. The Sessa Empirical Estimator uses K-Means clustering (again recall the disadvantages of K-Means), try to substitute a different clustering algorithm, generate a new insight using the new clustering algorithm.
+5. Compare your results between Sessa Empirical Estimator using K-Means, and Sessa Empirical Estimator using the clustering algorithm of your choice.
+6. Deadline is this Sunday, Feb 23, 2022 at 11:59 pm
+7. Do this with your thesis partner.
+8. You can use any A.I. assistant. 
+
+---
 ## **📖 Overview**  
 This project focuses on implementing the **Sessa Empirical Estimator (SEE)** in Python by:  
 - Converting existing **R code** into **Python (Jupyter Notebook)**  
@@ -24,13 +34,5 @@ This project focuses on implementing the **Sessa Empirical Estimator (SEE)** in 
    - Implement **K-Means clustering** (default in SEE).  
    - Compare it with an alternative **clustering algorithm** (e.g., Agglomerative, DBSCAN, GMM).  
 5. **Compare Results**: Analyze differences between K-Means and the selected alternative method.  
-
----
-
-## **📂 Dataset Sources**
-You may use one of the following:
-- 🔹 **Simulated Data**: [Frontiers in Pharmacology Dataset](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2019.00383/full)  
-- 🔹 **Real-World Data**: [UCI Machine Learning Repository](https://archive.ics.uci.edu/)  
-- 🔹 **Kaggle Datasets**: Search for datasets relevant to **clustering applications**  
 
 ---
